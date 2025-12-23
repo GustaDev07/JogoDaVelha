@@ -1,7 +1,7 @@
 # 🧩 Jogo da Velha – Projeto Acadêmico  
 
 ## 📌 Descrição  
-Este projeto é um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido como parte das atividades da **disciplina de Práticas de Programação – Módulo 3** da faculdade.  
+Este projeto é um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido como parte das atividades da **disciplina de Práticas de Programação – Módulo 3** da **GRAN Faculdade**.  
 Com a orientação e explicações do **professor Orion Telles**, foi possível concluir a 5ª aula do módulo e implementar todas as funcionalidades essenciais do jogo utilizando **HTML, CSS e JavaScript puro**.
 
 O objetivo do projeto é praticar conceitos fundamentais de lógica de programação, manipulação de DOM, controle de estado, estruturas condicionais, operadores ternários e organização de código em arquivos separados.
@@ -61,5 +61,6 @@ O botão "Resetar" reinicia o jogo recarregando a página.
 ---
 
 ## 📁 Estrutura do Projeto  
+
 
 
