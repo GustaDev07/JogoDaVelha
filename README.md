@@ -60,7 +60,6 @@ O botão "Resetar" reinicia o jogo recarregando a página.
 
 ---
 
-## 📁 Estrutura do Projeto  
 
 
 
